@@ -16,6 +16,6 @@ Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONF
 ## Informations diverses
 * Thématique, Labels :
 * Niveau de difficulté (débutant|avancé|confirmé) :
-* Durée (max 45 min) : 
+* Durée (quickie 15-30min, conférence >1h) : 
 * Format (slides, live-coding, les deux): 
 * Dispo ou indispo (après mars, dès que possible, pas entre X et Y):
