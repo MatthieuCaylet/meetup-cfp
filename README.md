@@ -1,6 +1,6 @@
 # Meetup Call For Paper (CFP)
 
-[Meetup](https://www.meetup.com/GDG-Toulouse/) | [Proposer un sujet](https://github.com/GDGToulouse/meetup-cfp/issues/new) | [Voter pour un sujet](https://github.com/GDGToulouse/meetup-cfp/issues)
+[Meetup](https://www.meetup.com/Tlse-Data-Science) | [Proposer un sujet](https://github.com/TlseDataScience/meetup-cfp/issues/new) | [Voter pour un sujet](https://github.com/TlseDataScience/meetup-cfp/issues)
 
 Utilisez les reactions ci-dessous pour voter: 
 
