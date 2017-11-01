@@ -1,4 +1,4 @@
-{ Veuillez remplir ce template ou nous envoyer un email à tlse-dasci-core-team@googlegroups.com pour nous aider à en savoir plus.
+{ Veuillez remplir ce template ou nous envoyer un email à core-team@tlse-data-science.fr pour nous aider à en savoir plus.
 Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONFERENCE] Prénom Nom }
 
 
